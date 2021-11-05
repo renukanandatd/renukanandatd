@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RENUKANANDA T D</h1>
-<h3 align="center">MLOPS and FULL STACK enthusiast, pre final year under graduate in computer science and engineering.</h3>
+<h3 align="center">MLOPS and FULL STACK DEVELPOMENT enthusiast, pre final year under graduate student in computer science and engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renukanandatd&label=Profile%20views&color=0e75b6&style=flat" alt="renukanandatd" /> </p>
 
