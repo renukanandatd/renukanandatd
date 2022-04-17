@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Synthetic Tabular Data generation**
 
-- 🌱 I’m currently learning **JAVA, JS, NODE JS, My SQL, MONGO DB**
+- 🌱 I’m currently learning **JAVA, JS, My SQL**
 
 - 👯 I’m looking to collaborate on **Devops**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@renukananda2000](https://medium.com/@renukananda2000)
 
-- 💬 Ask me about **C, PYTHON, ML basics, HTML, CSS**
+- 💬 Ask me about **C, PYTHON, ML, HTML, CSS**
 
 - 📫 How to reach me **renukananda2000@gmail.com**
 
