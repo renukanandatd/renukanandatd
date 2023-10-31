@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm RENUKANANDA T D</h1>
-<h3 align="center">MLOPS and FULL STACK DEVELPOMENT enthusiast, COMPUTER SCIENCE AND ENGINEERING GRADUATE currently working as GRADUATE TRAINEE ENGINEER.</h3>
+<h3 align="center">MOBILE APP DEVELOPMENT, FULL STACK DEVELPOMENT and MLOPS enthusiast, COMPUTER SCIENCE AND ENGINEERING GRADUATE currently working as GRADUATE TRAINEE ENGINEER.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renukanandatd&label=Profile%20views&color=0e75b6&style=flat" alt="renukanandatd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renukanandatd" alt="renukanandatd" /></a> </p>
 
-- 🔭 I’m currently working on **Synthetic Tabular Data generation**
+- 🔭 I’m currently working on **Mobile Application Development using Kotlin**
 
-- 🌱 I’m currently learning **JAVA, JS, My SQL**
+- 🌱 I’m currently learning **Kotlin, JAVA, JS, My SQL**
 
 - 👯 I’m looking to collaborate on **Devops**
 
-- 🤝 I’m looking for help with **Synthetic Tabular Data generation**
+- 🤝 I’m looking for help with **AWS certifications**
 
 - 📝 I regularly write articles on [https://medium.com/@renukananda2000](https://medium.com/@renukananda2000)
 
-- 💬 Ask me about **C, PYTHON, ML, HTML, CSS**
+- 💬 Ask me about **Kotlin, C, PYTHON, ML, HTML, CSS, JS**
 
 - 📫 How to reach me **renukananda2000@gmail.com**
 
