@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renukanandatd" alt="renukanandatd" /></a> </p>
 
-- 🔭 I’m currently working on **DEVOPS TOOLS - SHELL SCRIPTING, GIT, TERRAFORM, AWS CDK, DOCKER, KUBERNETES **
+- 🔭 I’m currently working on **DEVOPS TOOLS - SHELL SCRIPTING, GIT, TERRAFORM, AWS CDK, DOCKER, KUBERNETES**
 
 - 🌱 I’m currently learning **Shell Scripting, YAML, Python, Kotlin**
 
