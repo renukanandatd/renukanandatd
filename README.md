@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RENUKANANDA T D</h1>
-<h3 align="center">MOBILE APP DEVELOPMENT, DEVOPS and MLOPS enthusiast, COMPUTER SCIENCE AND ENGINEERING GRADUATE currently working as GRADUATE TRAINEE ENGINEER.</h3>
+<h3 align="center">DEVOPS and MLOPS enthusiast, COMPUTER SCIENCE AND ENGINEERING GRADUATE currently working as GRADUATE TRAINEE ENGINEER.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renukanandatd&label=Profile%20views&color=0e75b6&style=flat" alt="renukanandatd" /> </p>
 
